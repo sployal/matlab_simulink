@@ -25,7 +25,7 @@ The following models are included in this repository:
 To use these models, you need to have MATLAB and Simulink installed on your computer. You can download and install MATLAB and Simulink from the [MathWorks website](https://www.mathworks.com/).
 
 ## Usage
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/your-repository.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/sployal/matlab_simulink`.
 2. Open MATLAB and navigate to the cloned repository folder.
 3. Open any of the Simulink models in the repository by double-clicking the `.slx` files.
 4. Run the simulations and explore the results.
